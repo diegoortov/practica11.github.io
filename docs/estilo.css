@@ -28,7 +28,7 @@
 }
 
 .box-liquid::before{
-    content: url(img/img2.gif);
+    content: url(img/uaua.jpeg);
     height: 100%;
     width: 100%;
     display: flex;
@@ -55,3 +55,4 @@
         transform: translateY(-100%) rotate(-500deg);
     }
 }
+
